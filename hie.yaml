@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-chef-marpoggio:lib"
+
+    - path: "./test"
+      component: "haskell-chef-marpoggio:test:haskell-chef-marpoggio-test"
