@@ -1,7 +1,5 @@
-# ejercicio-alumno
+# TP - Haskell Chef
 
 ## Integrantes
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+- María Victoria Poggio (marpoggio)
